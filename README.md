@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmonkey-stress-mad-gif-15327798&psig=AOvVaw2-FYy08Gv16Yut6DkDHvuS&ust=1665813586681000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDw3aqF3_oCFQAAAAAdAAAAABAi)](https://iamKajal24.io)
+[![MasterHead]https://tenor.com/view/monkey-stress-mad-gif-15327798)](https://iamKajal24.io)
 <h1 align="center">Hi 👋, I'm Kajal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
