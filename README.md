@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Kajal</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm kajal</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkajal24&label=Profile%20views&color=0e75b6&style=flat" alt="iamkajal24" /> </p>
 
