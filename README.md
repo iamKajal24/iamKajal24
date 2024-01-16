@@ -6,13 +6,17 @@
 
 
 
-- 🔭 I’m currently working on **Portfolio wesite**
+- 🌱 I’m currently learning **Advance Java, DataStructure ,FrameWorks**
 
-- 🌱 I’m currently learning **C#,Java & HTML5**
+- 👯 I’m looking to collaborate on **Java Projects**
 
-- 💬 Ask me about **DBMS**
+- 🤝 I’m looking for help with **Website, Documentation**
+
+- 💬 Ask me about **Core Java, Html, CSS, SQL, DBMS**
 
 - 📫 How to reach me **kajalpandit238@gmail.com**
+
+- ⚡ Fun fact **I create Website**
 
   
 
