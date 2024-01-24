@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Core Java, Html, CSS, SQL, DBMS**
 
-- 📫 How to reach me **kajalpandit238@gmail.com**
+- 📫 How to reach me **kajalpandit238@gmail.com , https://www.linkedin.com/in/pandit-kajal**
 
 - ⚡ Fun fact **I create Website**
 
