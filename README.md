@@ -1,3 +1,4 @@
+[![MasterHead](https://img.freepik.com/premium-photo/computer-screen-with-word-it_999671-64302.jpg)](https://iamKajal24.io)
 
 <h1 align="center">Hi 👋, I'm kajal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
