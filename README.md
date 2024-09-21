@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Website, Documentation**
 
-- 💬 Ask me about **Core Java, Html, CSS, SQL, DBMS**
+- 💬 Ask me about **Core Java, Html, CSS, SQL, JDBC, Hibernate, Spring, SpringBoot**
 
-- 📫 How to reach me **kajalpandit238@gmail.com , https://www.linkedin.com/in/pandit-kajal**
+- 📫 How to reach me **panditkajal781@gmail.com , https://www.linkedin.com/in/pandit-kajal**
 
 - ⚡ Fun fact **I create Website**
 
