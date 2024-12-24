@@ -9,9 +9,9 @@
 
 - 🎓Passionate Software Developer **| MCA Graduate**
 
-- 💬 Ask me about [java, Spring & springboot](java, Spring & springboot)
+- 💬 Ask me about java, Spring & springboot
 
-- 📫 How to reach me [panditkajal781@gmail.com](panditkajal781@gmail.com)
+- 📫 How to reach me panditkajal781@gmail.com
 
 - 🎯 **Aspiring to contribute to innovative projects and enhance my expertise in backend development.**
 
