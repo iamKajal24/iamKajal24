@@ -1,27 +1,22 @@
+<h1 align="center">👋 Hi, I’m Kajal</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkajal&label=Profile%20views&color=0e75b6&style=flat" alt="iamkajal" /> </p>
 
-
-<h1 align="center">Hi 👋, I'm kajal</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkajal24&label=Profile%20views&color=0e75b6&style=flat" alt="iamkajal24" /> </p>
-
-
-
-- 🌱 I’m currently learning **Advance Java, DataStructure ,FrameWorks**
+-🌟Skilled in **Java, HTML, CSS, Hibernate, JDBC, JSP, Servlet, Spring, and Spring Boot.**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 🤝 I’m looking for help with **Website, Documentation**
+- 🎓Passionate Software Developer **| MCA Graduate**
 
-- 💬 Ask me about **Core Java, Html, CSS, SQL, JDBC, Hibernate, Spring, SpringBoot**
+- 💬 Ask me about [java, Spring & springboot](java, Spring & springboot)
 
-- 📫 How to reach me **panditkajal781@gmail.com , https://www.linkedin.com/in/pandit-kajal**
+- 📫 How to reach me [panditkajal781@gmail.com](panditkajal781@gmail.com)
 
-- ⚡ Fun fact **I create Website**
+- 🎯 **Aspiring to contribute to innovative projects and enhance my expertise in backend development.**
 
-  
+- 🌱 **Currently exploring cutting-edge technologies and learning Data Structure and Algorithm..**
+
+- ⚡ Fun fact **I love exploring new technologies and applying them to real-world projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
