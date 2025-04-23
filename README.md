@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Kajal
-**A passionate Software Engineer | Java | Backend Development from India**
+A passionate Software Engineer | Java | Backend Development from India
 
 Email Me 👉 ✉️ panditkajal781@gmail.com For Collaboration or project. 😊😊
 
-- 🔭 **I’m currently working on: Java Backend Development & System Design
-- 🌱 **I’m currently learning: Microservices, Cloud Technologies & High-Performance Systems
-- 👯 **I’m looking to collaborate on: Open-source projects & Backend Engineering challenges
-- 💬 **Ask me about:** Tech Support, Collaboration, Java, Spring Boot, APIs, SQL
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 I’m currently working on: Java Backend Development & System Design
+- 🌱 I’m currently learning: Microservices, Cloud Technologies & High-Performance Systems
+- 👯 I’m looking to collaborate on: Open-source projects & Backend Engineering challenges
+- 💬 Ask me about:** Tech Support, Collaboration, Java, Spring Boot, APIs, SQL
+- ⚡ Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kajalpandit24_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kajal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panditkajal781@gmail.com) 
